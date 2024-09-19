@@ -1,0 +1,5 @@
+{
+    "dotenv.enableAutocloaking": false,
+    "github.copilot.preferredAccount": "live server",
+    "git.ignoreLimitWarning": true
+}
